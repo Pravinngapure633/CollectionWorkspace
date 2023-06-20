@@ -1,0 +1,25 @@
+package lastIndexOf_Method;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
+public class Test {
+	
+public static void main(String[] args) {
+		
+		List l=new ArrayList();
+		l.add(0, 10);
+		l.add(1, 30);
+		l.add(2, "PQR");
+		l.add(3, 30);
+		l.add(4, 40);
+		l.add(5, 30);
+		
+		System.out.println("List:"+l);
+		
+		l.lastIndexOf(30);
+		System.out.println(i);
+
+}
+}

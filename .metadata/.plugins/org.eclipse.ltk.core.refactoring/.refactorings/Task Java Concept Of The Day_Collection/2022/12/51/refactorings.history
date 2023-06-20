@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Questions&apos; to &apos;Questions_ArrayList&apos;&#x0D;&#x0A;- Original project: &apos;Task Java Concept Of The Day_Collection&apos;&#x0D;&#x0A;- Original element: &apos;Task Java Concept Of The Day_Collection/src/Questions&apos;&#x0D;&#x0A;- Renamed element: &apos;Task Java Concept Of The Day_Collection/src/Questions_ArrayList&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Questions&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Questions" name="Questions_ArrayList" qualified="false" references="true" stamp="1670910687111" textual="false" version="1.0"/>
+</session>

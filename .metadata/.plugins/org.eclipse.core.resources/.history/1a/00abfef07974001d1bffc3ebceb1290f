@@ -1,0 +1,24 @@
+package Main_Examaple;
+
+import java.util.List;
+import java.util.ArrayList;
+
+public class Test_Employee {
+	
+	
+	public static void main (String [] args)
+	{
+		List<Employee> l=new ArrayList<>();
+		
+		Employee emp=new Employee(101,"PRAVIN","JAVA",25000);
+		Employee emp1=new Employee(102,"VISHAL","JAVA",200);
+		
+		l.add(emp);
+		l.add(emp1);
+		
+		Test_Employee t=new Test_Employee();
+		
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;D1.1_TressSet(c)&apos; to &apos;D1.1_TressSet(c)_And_Comparable_And_Comparator&apos;" description="Rename resource &apos;D1.1_TressSet(c)&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/D1.1_TressSet(c)" name="D1.1_TressSet(c)_And_Comparable_And_Comparator" stamp="1672387712639" updateReferences="true"/>
+</session>
